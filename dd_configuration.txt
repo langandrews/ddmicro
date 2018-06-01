@@ -1,0 +1,41 @@
+ENCODE	EN
+
+BACKLIGHT_MODE		1
+BACKLIGHT_COLOR		#1BCDEF
+BACKLIGHT_BRIGHTNESS	30
+
+LAYER	0
+ESC	q	w	e	r	t	y	u	i	o	p	[	]	BS
+TAB	a	s	d	f	g	h	j	k	l	;	'	ENTER
+SHIFT	SHIFT	z	x	c	v	b	n	m	,	.	/	UP `
+CTRL	FN_2	ALT	CTRL	FN_1	SPACE	FN_4	FN_4	MENU	LEFT	DOWN	RIGHT
+
+LAYER	1
+ESC	1	2	3	4	5	6	7	8	9	0	-	=	DEL
+CTRL	!	@	#	$	+	=	(	)	[	]	?	ENTER
+SHIFT	^	%	&	*	_	-	{	}	\	|	~	`	FN@1
+FN_X	...	ALT	CTRL	...	SPACE	...	...	WIN	...	...	...
+
+LAYER	2
+ESC	BT_1	BT_2	BT_3	BT_4	...	...	n7	n8	n9	n+	NMLK	CPLK	BS
+TAB	BT_5	BT_6	BT_7	BT_8	...	...	n4	n5	n6	n-	...	ENTER
+SHIFT	...	...	...	...	...	...	n1	n2	n3	n*	...	UP	FN@2
+FN_X	...	ALT	CTRL	...	SPACE	n0	n.	n/	n=	...	...
+
+LAYER	3
+ESC	F1	F2	F3	F4	PTSC	INS	HOME	UP	END	PAUSE	...	DEL	BS
+TAB	F5	F6	F7	F8	CS+LEFT	C+LEFT	LEFT	DOWN	RIGHT	C+RIGHT	CS+RIGHT	ENTER
+SHIFT	F9	F10	F11	F12	...	S+LEFT	A+LEFT	C+END	A+RIGHT	S+RIGHT	...	UP	FN@3
+FN_X	...	ALT	CTRL	...	SPACE	...	WIN	MENU	LEFT	DOWN	RIGHT
+
+LAYER	4
+ESC	BLM_1	BLM_2	BLM_3	BLM_4	BL_UP	BL_ON	...	=	...	...	...	...	BS
+TAB	BLM_5	BLM_6	BLM_7	BLM_8	BL_DN	BL_OFF	<	-	>	...	...	ENTER
+SHIFT	BLM_9	...	...	...	...	...	...	...	...	...	...	...	FN@4
+FN_X	...	ALT	CTRL	...	...	...	WIN	...	...	...	...
+
+LAYER	5
+ESC	...	...	...	...	...	...	...	...	...	...	...	...	BS
+TAB	...	...	...	...	...	...	...	...	...	...	...	ENTER
+SHIFT	...	...	...	...	...	...	...	...	...	...	...	...	FN@5
+FN_X	...	ALT	CTRL	...	...	...	WIN	...	...	...	...
