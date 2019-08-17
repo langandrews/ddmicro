@@ -1,6 +1,6 @@
 ENCODE	EN
 
-BACKLIGHT_MODE		1
+BACKLIGHT_MODE		2
 BACKLIGHT_COLOR		#1BCDEF
 BACKLIGHT_BRIGHTNESS	30
 
@@ -8,12 +8,12 @@ LAYER	0
 ESC	q	w	e	r	t	y	u	i	o	p	[	]	BS
 TAB	a	s	d	f	g	h	j	k	l	;	'	ENTER
 SHIFT	SHIFT	z	x	c	v	b	n	m	,	.	/	UP `
-CTRL	FN_2	ALT	CTRL	FN_1	SPACE	FN_4	FN_4	MENU	LEFT	DOWN	RIGHT
+CTRL	WIN	ALT	CTRL	FN_1	SPACE	FN_4	FN_4	MENU	LEFT	DOWN	RIGHT
 
 LAYER	1
-ESC	1	2	3	4	5	6	7	8	9	0	-	=	DEL
-CTRL	!	@	#	$	+	=	(	)	[	]	?	ENTER
-SHIFT	^	%	&	*	_	-	{	}	\	|	~	`	FN@1
+ESC	1	2	3	4	5	6	7	8	9	0	-	=	BS
+CTRL	!	@	#	$	+	=	(	-	=	]	?	ENTER
+SHIFT	^	%	&	*	_	-	{	}	\	|	~	`	DEL
 FN_X	...	ALT	CTRL	...	SPACE	...	...	WIN	...	...	...
 
 LAYER	2
